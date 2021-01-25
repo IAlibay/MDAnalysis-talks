@@ -13,3 +13,4 @@ dependencies:
   - MDAnalysis
   - MDAnalysisTests
   - rise
+  - nglview

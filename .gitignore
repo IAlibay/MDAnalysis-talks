@@ -1,0 +1,8 @@
+# jupyter
+.ipynb_checkpoints
+
+# numpy
+*.npz
+
+# python
+*.pyc
