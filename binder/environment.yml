@@ -1,0 +1,15 @@
+channel:
+  - conda-forge
+  - biobuilds
+dependencies:
+  - python
+  - pip
+  - numpy
+  - matplotlib==3.2.2
+  - jupyter_contrib_nbextensions
+  - ipython
+  - ipywidgets
+  - cython
+  - MDAnalysis
+  - MDAnalysisTests
+  - rise
